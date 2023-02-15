@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T14:40:59.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hlvE-UO9rYu3M8kxKQW5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T14:41:54.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZsShBZveMOiQV4TCORzn" version="20.8.20" type="github">
   <diagram name="Page-1" id="tUvHOpyKGCOa9XYc-U5K">
     <mxGraphModel dx="4961" dy="1288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
         <mxCell id="plOeJMy2zet4X1iiJ_3a-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;strokeColor=#000000;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="-116.13" y="1100" width="20" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="plOeJMy2zet4X1iiJ_3a-104" value="(lightSwitchPressed &amp;amp;&amp;amp; carMoving)&lt;br&gt;|| (doorIsOpened &amp;amp;&amp;amp; carIsStopped)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
+        <mxCell id="plOeJMy2zet4X1iiJ_3a-104" value="(lightSwitchPressed &amp;amp;&amp;amp; carIsMoving)&lt;br&gt;|| (doorIsOpened &amp;amp;&amp;amp; carIsStopped)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="-1422" y="940" width="616.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="plOeJMy2zet4X1iiJ_3a-105" value="doorIsOpened &amp;amp;&amp;amp; carIsMoving" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
@@ -215,7 +215,7 @@
         <mxCell id="plOeJMy2zet4X1iiJ_3a-106" value="doorIsClosed &amp;amp;&amp;amp; RL+LL on" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="1380" width="494.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="plOeJMy2zet4X1iiJ_3a-107" value="lightSwitchPressed &amp;amp;&amp;amp; carMoving" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
+        <mxCell id="plOeJMy2zet4X1iiJ_3a-107" value="lightSwitchPressed &amp;amp;&amp;amp; carIsMoving" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="-1421.5" y="1510" width="632" height="40" as="geometry" />
         </mxCell>
       </root>
