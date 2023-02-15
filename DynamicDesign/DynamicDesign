@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T14:40:14.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xOc2vJ6644ytDrgD5lYr" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T14:40:59.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hlvE-UO9rYu3M8kxKQW5" version="20.8.20" type="github">
   <diagram name="Page-1" id="tUvHOpyKGCOa9XYc-U5K">
     <mxGraphModel dx="4961" dy="1288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="plOeJMy2zet4X1iiJ_3a-67" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=47;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-796.5" y="970" width="421" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="plOeJMy2zet4X1iiJ_3a-68" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Lights off&lt;br&gt;Buzzer on&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;" vertex="1" parent="1">
+        <mxCell id="plOeJMy2zet4X1iiJ_3a-68" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;RL+LL&amp;nbsp;off&lt;br&gt;Buzzer on&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;" vertex="1" parent="1">
           <mxGeometry x="-810" y="1115" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="plOeJMy2zet4X1iiJ_3a-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=36;endSize=10;" edge="1" parent="1" source="plOeJMy2zet4X1iiJ_3a-75" target="plOeJMy2zet4X1iiJ_3a-81">
@@ -168,7 +168,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="plOeJMy2zet4X1iiJ_3a-76" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Lights on&lt;br&gt;Buzzer off&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;" vertex="1" parent="1">
+        <mxCell id="plOeJMy2zet4X1iiJ_3a-76" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;RL+LL on&lt;br&gt;Buzzer off&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;" vertex="1" parent="1">
           <mxGeometry x="-801" y="960" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="plOeJMy2zet4X1iiJ_3a-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.143;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=36;endSize=10;" edge="1" parent="1" source="plOeJMy2zet4X1iiJ_3a-77" target="plOeJMy2zet4X1iiJ_3a-81">
@@ -191,7 +191,7 @@
         <mxCell id="plOeJMy2zet4X1iiJ_3a-79" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=47;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-801" y="1430" width="421" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="plOeJMy2zet4X1iiJ_3a-80" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Lights on&lt;br&gt;Buzzer on&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;" vertex="1" parent="1">
+        <mxCell id="plOeJMy2zet4X1iiJ_3a-80" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;RL+LL&amp;nbsp;on&lt;br&gt;Buzzer on&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;" vertex="1" parent="1">
           <mxGeometry x="-805.5" y="1420" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="plOeJMy2zet4X1iiJ_3a-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=36;endSize=10;" edge="1" parent="1" source="plOeJMy2zet4X1iiJ_3a-81" target="plOeJMy2zet4X1iiJ_3a-63">
