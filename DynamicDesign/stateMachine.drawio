@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T12:06:54.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Gbn039_O28xXzM06Vult" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T12:07:09.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sJI9IY8Advg8szjdxPGd" version="20.8.20" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1786" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-123" value="send data via CAN bus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-122">
           <mxGeometry x="-0.2207" y="5" relative="1" as="geometry">
-            <mxPoint x="37" y="201" as="offset" />
+            <mxPoint x="101" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-125" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;" edge="1" parent="7baba1c4bc27f4b0-2" target="bU0_iT4Fgn5RnMaW8USa-170">
