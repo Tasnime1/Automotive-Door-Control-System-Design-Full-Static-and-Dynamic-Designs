@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T14:01:42.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RmKl2jNXz3QtHuoLQOS5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T14:08:54.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2-nV509bT0QjiblJTELI" version="20.8.20" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2903" dy="1433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,7 +697,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bU0_iT4Fgn5RnMaW8USa-499" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;return receiving state&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-498">
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-499" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;return receiving state and data received&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-498">
           <mxGeometry x="-0.0374" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -730,7 +730,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bU0_iT4Fgn5RnMaW8USa-508" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;return receiving state&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-507">
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-508" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;return receiving state and data received&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-507">
           <mxGeometry x="-0.0374" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -802,7 +802,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bU0_iT4Fgn5RnMaW8USa-456" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;return receiving&amp;nbsp;state&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-455">
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-456" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;return receiving state and data received&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-455">
           <mxGeometry x="-0.0374" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -1191,7 +1191,7 @@
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-663" value="return action state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3004.25" y="2780.17" as="geometry" />
         </mxCell>
-        <mxCell id="bU0_iT4Fgn5RnMaW8USa-664" value="if light switch is pressed" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=17;width=211;height=23;" vertex="1" parent="1">
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-664" value="if data is received successfully and light switch is pressed" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=17;width=448;height=25;" vertex="1" parent="1">
           <mxGeometry x="2548.13" y="2323" width="1226.87" height="551" as="geometry" />
         </mxCell>
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-666" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;labelBorderColor=default;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -1235,6 +1235,9 @@
         </mxCell>
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-683" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;labelBorderColor=default;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3625" y="2021.5" width="10" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-684" value="assuming data is received successfully else won&#39;t enter here" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="1263" width="473" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
