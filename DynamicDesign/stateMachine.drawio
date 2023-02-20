@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T10:52:19.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UAyQrlmUKCHz4VBFtAJ4" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T10:55:02.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="STVeU8-qHGW11VXYftFs" version="20.8.20" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="774" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,17 @@
         </mxCell>
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-15" value="Loop" style="strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;fontStyle=2;align=center;" vertex="1" parent="bU0_iT4Fgn5RnMaW8USa-14">
           <mxGeometry y="990" width="1240" height="30.368098159509202" as="geometry" />
+        </mxCell>
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=17;" vertex="1" parent="bU0_iT4Fgn5RnMaW8USa-14">
+          <mxGeometry x="905" y="110" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-19" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=17;" edge="1" target="bU0_iT4Fgn5RnMaW8USa-18" parent="bU0_iT4Fgn5RnMaW8USa-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="940" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
