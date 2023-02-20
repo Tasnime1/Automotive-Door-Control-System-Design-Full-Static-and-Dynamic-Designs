@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T12:26:55.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="h2T4WM6kDROvorj-8JLd" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T12:27:48.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KHIqQy3jGooFSGOOgMW_" version="20.8.20" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1786" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3317" dy="1637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,9 +497,9 @@
             <mxPoint x="61" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bU0_iT4Fgn5RnMaW8USa-450" value="receive light switch state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-449">
+        <mxCell id="bU0_iT4Fgn5RnMaW8USa-450" value="receive light&lt;br&gt;switch state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="bU0_iT4Fgn5RnMaW8USa-449">
           <mxGeometry x="0.366" relative="1" as="geometry">
-            <mxPoint x="-27" y="-12" as="offset" />
+            <mxPoint x="-28" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bU0_iT4Fgn5RnMaW8USa-455" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;dashed=1;dashPattern=8 8;" edge="1" parent="bU0_iT4Fgn5RnMaW8USa-441">
