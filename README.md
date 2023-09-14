@@ -12,4 +12,4 @@
     *  One buzzer (B).
     *  ECU 2 connected to RL, LL, and B, all output devices.
  
-* A detailed report is provvided with all project APIs, state machines, sequence diagrams, CPU Load...etc.
+* A detailed report is provided with all project APIs, state machines, sequence diagrams, CPU Load...etc.
